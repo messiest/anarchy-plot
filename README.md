@@ -2,14 +2,16 @@
 The command line tool for the revolution.
 
 
-Show the man that you're a revolutionary the old-fashioned way: by drawing the anarchy symbol, before dutifully returning to work.
+Show the man that you're a revolutionary the old-fashioned way: by drawing the anarchy symbol before dutifully returning to work.
+Now on a computer!
 
 ![ANARCHY!!!](assets/ANARCHY!!!.png)
 
 #### Setup
 
-While simply running the program in `anarchy.py` is all you need to do, we recommend streamlining the revolution by creating a command line interface.
-After cloning the repository, navigate to the folder and run the following bash command:
+While simply running the program in `anarchy.py` is all you need to do to fight the man, we recommend streamlining the revolution with a command line interface.
+After cloning the repository, open your preferred bash console, navigate to the repository and run the following command:
+
 ```
 $ cp anarchy.py ~/bin/anarchy
 ```
